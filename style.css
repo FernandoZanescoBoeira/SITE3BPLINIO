@@ -36,11 +36,7 @@ body{
     width:100%;
     display: flex;
     justify-content: space-between;
-    .botoes button.overlay{
-        background: white;
-        color: black;
-        animation: vibrar 0.8s ease-in-out infinite both;
-    }
+    
 }
 
 #menu{
