@@ -50,11 +50,7 @@ body{
 #menu li a, #cabecalho a{
     text-decoration: none;
     color: rgb(63, 63, 63);
-    button.overlay{
-        background: white;
-        color: black;
-        animation: vibrar 0.8s ease-in-out infinite both;
-}
+   }
 
 
 #logo{
