@@ -254,8 +254,3 @@ footer a:hover{
 
     #sobreMim img {width: 200px; height: 300px;}
 } 
-.menu button.overlay{
-    background: white;
-    color: black;
-    animation: vibrar 0.8s ease-in-out infinite both;
-}  
