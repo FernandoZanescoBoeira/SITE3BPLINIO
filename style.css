@@ -41,10 +41,6 @@ body{
 #menu{
     list-style: none;
     display: flex;
-    button.overlay{
-        background: white;
-        color: black;
-        animation: vibrar 0.8s ease-in-out infinite both;
 }
 
 #menu li{
