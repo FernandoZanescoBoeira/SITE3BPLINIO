@@ -21,8 +21,8 @@ body{
     min-height: 54px;
     /*border: 1px solid grey;*/
     display: flex;
-    align-items: stretch;
-    background-color: white;
+    align-items: center;
+    background-color: rgb(60, 194, 218);
 }
 
 .container{
