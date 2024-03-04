@@ -21,7 +21,7 @@ body{
     min-height: 54px;
     /*border: 1px solid grey;*/
     display: flex;
-    align-items: center;
+    align-items: stretch;
     background-color: white;
 }
 
