@@ -222,7 +222,7 @@ footer{
 
 footer a{
     text-decoration: none;
-    color: green;
+    color: rgb(172, 235, 172);
 }
 
 footer a:hover{
