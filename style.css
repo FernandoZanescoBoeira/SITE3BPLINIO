@@ -55,7 +55,7 @@ body{
 
 
 #logo{
-    text-align:center;
+    text-overflow: ellipsis;
     justify-content: center;
     font-weight: bold;
     font-size: 19px;
