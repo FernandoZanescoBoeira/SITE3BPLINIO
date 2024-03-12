@@ -24,6 +24,7 @@ body{
     display: flex;
     align-items: center;
     background-color: rgb(7, 52, 59);
+    text-align: center;
 }
 
 .container{
@@ -37,7 +38,6 @@ body{
     width:100%;
     display: flex;
     justify-content: space-between;
-    text-align: center;
     
 }
 
