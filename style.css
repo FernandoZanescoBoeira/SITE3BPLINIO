@@ -24,7 +24,6 @@ body{
     display: flex;
     align-items: center;
     background-color: rgb(7, 52, 59);
-    text-align: center;
 }
 
 .container{
@@ -60,7 +59,7 @@ body{
     text-align:center;
     justify-content: center;
     font-weight: bold;
-    font-size: 19px;
+    font-size: 100px;
 }
 /*------------------- BANNER -----------------*/
 
